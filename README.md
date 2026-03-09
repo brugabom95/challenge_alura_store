@@ -55,7 +55,7 @@ As categorias de **Eletrônicos** e **Eletrodomésticos** são os motores de rec
 ---
 
 ## 📖 Como visualizar este projeto?
-1.  **Notebook**: O arquivo principal está na raiz como `analise_vendas.ipynb`.
+1.  **Notebook**: O arquivo principal está na raiz como `analise_vendas_alura_store.ipynb`.
 2.  **Execução Direta**: Você pode rodar o código e interagir com os gráficos clicando no botão **Open in Colab** no topo deste documento.
 
 ---
