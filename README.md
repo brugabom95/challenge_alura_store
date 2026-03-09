@@ -28,11 +28,13 @@ As categorias de **Eletrônicos** e **Eletrodomésticos** são os motores de rec
 ### 📊 Visualização de Performance
 <p align="center"> <img src="img/grafico_faturamento_total.png" width="80%"> </p>
 
-### 📊 Faturamento Total
+### 📊 Vendas totais das quatro lojas por categoria
 <p align="center"> <img src="img/total_vendas_categoria_todas_as_lojas.png" width="80%"> </p>
 
 ### 📊 Visualização de Eficiência Logística vs. Performance de Vendas
-<img src="img/Eficiência%20Logística%20vs.%20Performance%20de%20Vendas.png" width="80%">
+<p align="center"> 
+  <img src="img/eficiencia_logistica.png" width="80%"> 
+</p>
 
 
 ---
